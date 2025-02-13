@@ -103,7 +103,7 @@ li{
     transition: all 0.3s;
 }
 #works ul li img:hover{
-    transform: scale(1.2,1.2);
+    transform: scale(1.2, 1.2);
     opacity: 0.7;
 }
 #news dl {
@@ -184,12 +184,12 @@ li{
         margin-top: 15px;
     }}
 
-#works ul{
+/* #works ul{
     flex-direction: column;
-}
-#works ul li{
+} */
+/* #works ul li{
     width: 100%;
-}
+} */
 #news dl {
     flex-direction: column;
 
